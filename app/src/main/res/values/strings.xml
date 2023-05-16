@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="textViewName">Name:</string>
+    <string name="editTextName">Enter name</string>
+    <string name="textViewPhone">Mobile Number:</string>
+    <string name="editTextPhone">Enter mobile number</string>
+    <string name="textViewPax">No. of people:</string>
+    <string name="editTextPax">Enter size of group</string>
+    <string name="smoking_area">Smoking area</string>
+    <string name="non_smoking_area">Non-Smoking area</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
