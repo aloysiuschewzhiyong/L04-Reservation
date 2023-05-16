@@ -66,8 +66,8 @@ public class MainActivity extends AppCompatActivity {
                         String message = "Name: " + name.getText().toString() + "\n"
                                 + "Mobile Number: " + phone.getText().toString() + "\n"
                                 + "Size of group: " + pax.getText().toString() + "\n"
-                                + "Date: " + date
-                                + "Time: " + time
+                                + "Date: " + date +" "
+                                + "Time: " + time + "\n"
                                 + "Smoking area: Yes" + "\n";
                         Toast.makeText(MainActivity.this,message,Toast.LENGTH_SHORT).show();
                     }
@@ -77,8 +77,8 @@ public class MainActivity extends AppCompatActivity {
                         String message = "Name: " + name.getText().toString() + "\n"
                                 + "Mobile Number: " + phone.getText().toString() + "\n"
                                 + "Size of group: " + pax.getText().toString() + "\n"
-                                + "Date: " + date
-                                + "Time: " + time
+                                + "Date: " + date +" "
+                                + "Time: " + time + "\n"
                                 + "Smoking area: No" + "\n";
                         Toast.makeText(MainActivity.this,message,Toast.LENGTH_SHORT).show();
                     }
